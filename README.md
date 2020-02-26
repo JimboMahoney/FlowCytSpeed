@@ -12,9 +12,19 @@ Copy / paste and run the script in [R](https://cran.r-project.org/) and perhaps 
 
 ### Example Output
 
+**Flow**
+
 <br>
-<img src="https://raw.githubusercontent.com/JimboMahoney/FlowCytSpeed/master/Clipboard01.png"
-  align="center" />
+<img src="https://raw.githubusercontent.com/JimboMahoney/FlowCytSpeed/master/Clipboard01.png" 
+ align="center" />
+  
+ **Mass (CyTOF)**
+ <br>
+ This is quite an interesting dataset because it's been concatenated and also shows all events (blue) as well as cell events (red). There must have been a huge spike in contamination or some other non-cell material about halfway through.
+ <br>
+ <br>
+<img src="https://raw.githubusercontent.com/JimboMahoney/FlowCytSpeed/master/Clipboard02.png" 
+ align="center" />
 
 ### Issues
 Please report any bugs / suggestions [here.](https://github.com/JimboMahoney/FlowCytSpeed/issues)
