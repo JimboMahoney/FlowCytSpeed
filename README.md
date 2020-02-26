@@ -16,3 +16,5 @@ Copy / paste and run the script in [R](https://cran.r-project.org/) and perhaps 
 <img src="https://raw.githubusercontent.com/JimboMahoney/FlowCytSpeed/master/Clipboard01.png"
   align="center" />
 
+### Issues
+Please report any bugs / suggestions [here.](https://github.com/JimboMahoney/FlowCytSpeed/issues)
