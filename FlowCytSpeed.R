@@ -31,11 +31,6 @@ if (!require("ggplot2")) {
   library(ggplot2)
 }
 
-if (!require("tcltk")) {
-  install.packages("tcltk", dependencies = TRUE)
-  library(tcltk)
-}
-
 #########################################################
 ### Script starts here
 #########################################################
